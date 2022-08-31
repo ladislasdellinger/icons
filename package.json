@@ -1,5 +1,5 @@
 {
-  "name": "@getleeway/icons",
+  "name": "@ladislasdellinger/icons",
   "version": "0.0.2",
   "description": "Icon automation workflow with Figma",
   "main": "dist/juuust-react-icon.cjs.js",
@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/leadream/juuust-react-icon.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ladislasdellinger/icons.git"
+  },
   "author": "leadream",
   "keywords": [
     "react",
